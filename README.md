@@ -1,13 +1,13 @@
 <!-- Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Cloud%20%26%20Cybersecurity&descAlignY=52&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Cloud%20%26%20Cybersecurity&descAlignY=52&descSize=18"/>
 </picture>
 
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+enterprise+microservices+architectures;Crafting+modern+React+%26+Android+applications;Passionate+about+clean+code+%26+best+practices" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Fullstack+Developer+(Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Kotlin);Cloud+%26+JWT+Security+(AWS+%26+Azure);Cybersecurity+Engineering+Student+%40+UNAB" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -32,24 +32,26 @@
 const rodrigo = {
     pronouns: "he" | "him",
     location: "Utah, United States",
+    
     currentRole: "Fullstack Developer",
-    workingOn: "Enterprise Microservices & Cloud Architecture",
+    studying: "Cybersecurity Engineering @ Universidad Andrés Bello (UNAB)",
     
     code: {
         backend: ["Java 21", "Kotlin", "Spring Boot 3.5", "Spring Cloud"],
         frontend: ["React 19", "TypeScript", "Vite", "Tailwind CSS"],
         mobile: ["Android", "Jetpack Compose", "Kotlin"],
         databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        devOps: ["Docker", "Apache Kafka", "CI/CD"]
+        security: ["JWT", "OAuth2", "Spring Security", "SSL/TLS"],
+        cloud: ["AWS", "Azure", "Docker", "Apache Kafka"]
     },
     
     architecture: ["Microservices", "Event-Driven", "Clean Architecture", "MVVM", "BFF"],
     
-    currentlyLearning: ["Kubernetes", "AWS", "Azure Cloud"],
+    certifications: "Currently pursuing AWS & Azure certifications",
     
-    askMeAbout: ["Spring Boot", "React", "System Design", "Microservices"],
+    askMeAbout: ["Spring Boot", "React", "Cloud Security", "Microservices"],
     
-    funFact: "I transform coffee into production-ready code ☕ → 💻"
+    funFact: "I transform coffee into secure, production-ready code ☕ → 🔐"
 };
 ```
 
@@ -69,11 +71,14 @@ const rodrigo = {
 ### Mobile Development
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma&theme=dark" />
 
+### Cloud & Security
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,nginx&theme=dark" />
+
 ### Databases & Messaging
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" />
 
 </div>
 
@@ -134,7 +139,7 @@ const rodrigo = {
 
 <div align="center">
 
-### 💼 Open to remote opportunities in Backend/Fullstack Development
+### 💼 Open to remote opportunities in Backend/Fullstack Development & Cloud Security
 
 <br/>
 
@@ -142,7 +147,7 @@ const rodrigo = {
 
 <br/><br/>
 
-**Building the future, one commit at a time.**
+**Building secure systems, one commit at a time.**
 
 <br/>
 
