@@ -28,6 +28,7 @@
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=RodrigoSanchezDev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RodrigoSanchezDev?style=for-the-badge&color=A855F7&label=FOLLOWERS&logo=github"/>
 
 </div>
 
