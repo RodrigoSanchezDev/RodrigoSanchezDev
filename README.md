@@ -220,7 +220,6 @@ const rodrigo = {
 </div>
 
 <br/>
-
 <!-- Connect Section -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
@@ -230,9 +229,59 @@ const rodrigo = {
 
 <br/>
 
-<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-sanchezdev.com-A855F7?style=for-the-badge"/></a>
+<!-- Bento Grid for Contact -->
+<table>
+<tr>
+<td width="50%" align="center">
 
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio"/>
 <br/><br/>
+<a href="https://sanchezdev.com">
+<img src="https://img.shields.io/badge/sanchezdev.com-A855F7?style=for-the-badge&logoColor=white"/>
+</a>
+<br/>
+<sub>Explore my work and projects</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<br/><br/>
+<a href="mailto:Rodrigo@sanchezdev.com">
+<img src="https://img.shields.io/badge/Rodrigo@sanchezdev.com-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>Let's talk about your project</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=A855F7" alt="Resume"/>
+<br/><br/>
+<a href="https://www.sanchezdev.com/documents/CV-English.html">
+<img src="https://img.shields.io/badge/View_My_Resume-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>Download my professional resume</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Freelance-0D1117?style=for-the-badge&logo=upwork&logoColor=6FDA44" alt="Freelance"/>
+<br/><br/>
+<a href="https://www.sanchezdev.com/agenda">
+<img src="https://img.shields.io/badge/Schedule_a_Call-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>Have a project idea? Let's discuss!</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 **Building secure systems, one commit at a time.**
 

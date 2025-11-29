@@ -220,18 +220,68 @@ const rodrigo = {
 
 <br/>
 
-<!-- Connect Section -->
+<!-- Sección de Contacto -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Conectemos
 
 <div align="center">
 
-### 💼 Abierto a oportunidades remotas en Desarrollo Backend/Fullstack y Seguridad Cloud
+### 💼 Abierto a oportunidades remotas en Desarrollo Backend/Fullstack & Seguridad Cloud
 
 <br/>
 
-<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/🌐_Visita_Mi_Portafolio-sanchezdev.com-A855F7?style=for-the-badge"/></a>
+<!-- Bento Grid para Contacto -->
+<table>
+<tr>
+<td width="50%" align="center">
 
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio"/>
 <br/><br/>
+<a href="https://sanchezdev.com">
+<img src="https://img.shields.io/badge/sanchezdev.com-A855F7?style=for-the-badge&logoColor=white"/>
+</a>
+<br/>
+<sub>Explora mi trabajo y proyectos</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<br/><br/>
+<a href="mailto:Rodrigo@sanchezdev.com">
+<img src="https://img.shields.io/badge/Rodrigo@sanchezdev.com-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>Hablemos de tu proyecto</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Currículum-0D1117?style=for-the-badge&logo=readdotcv&logoColor=A855F7" alt="CV"/>
+<br/><br/>
+<a href="https://www.sanchezdev.com/documents/CV-Espanol.html">
+<img src="https://img.shields.io/badge/Ver_Mi_Currículum-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>Descarga mi currículum profesional</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Freelance-0D1117?style=for-the-badge&logo=upwork&logoColor=6FDA44" alt="Freelance"/>
+<br/><br/>
+<a href="https://www.sanchezdev.com/es/agenda">
+<img src="https://img.shields.io/badge/Agenda_una_Llamada-A855F7?style=for-the-badge"/>
+</a>
+<br/>
+<sub>¿Tienes una idea de proyecto? ¡Conversemos!</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 **Construyendo sistemas seguros, un commit a la vez.**
 
