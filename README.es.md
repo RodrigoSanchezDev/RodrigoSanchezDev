@@ -218,77 +218,54 @@ const rodrigo = {
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoSanchezDev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-<!-- Activity Graph -->
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" width="100%"/>
+
+<br/><br/>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoSanchezDev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=A855F7&height=80&section=header&text=Trabajemos%20Juntos&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="400"/>
 </div>
 
 <br/>
 
-<!-- Sección de Contacto -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=¡Construyamos+Algo+Increíble!;Disponible+para+Proyectos+Freelance;Abierto+a+Trabajo+Remoto" alt="Typing SVG" />
+  <a href="https://sanchezdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-sanchezdev.com-A855F7?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="mailto:Rodrigo@sanchezdev.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanchezdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-<!-- CTAs Principales -->
-<a href="https://sanchezdev.com">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visita_sanchezdev.com-A855F7?style=for-the-badge&labelColor=0D1117" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:Rodrigo@sanchezdev.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-Rodrigo@sanchezdev.com-EA4335?style=for-the-badge&labelColor=0D1117" height="35"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.sanchezdev.com/documents/CV-Espanol.html">
-  <img src="https://img.shields.io/badge/📄_CURRÍCULUM-Descargar_CV-A855F7?style=for-the-badge&labelColor=0D1117" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sanchezdev">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-Conectemos-0A66C2?style=for-the-badge&labelColor=0D1117" height="35"/>
-</a>
-
-<br/><br/>
-
-<!-- CTA Freelance -->
-<a href="https://www.sanchezdev.com/es/agenda">
-  <img src="https://img.shields.io/badge/🚀_¿TIENES_UNA_IDEA_DE_PROYECTO%3F-Agenda_una_Llamada_Gratis-6FDA44?style=for-the-badge&labelColor=0D1117" height="40"/>
-</a>
-
-<br/><br/>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   💡 ¿Buscas un desarrollador que construya apps seguras y escalables? ║
-║                                                                      ║
-║   ✅ Backend: Java, Spring Boot, Microservicios, Kafka               ║
-║   ✅ Frontend: React, TypeScript, Tailwind CSS                       ║
-║   ✅ Mobile: Android, Kotlin, Jetpack Compose                        ║
-║   ✅ Cloud: AWS, Azure, Docker, Kubernetes                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-**Construyendo sistemas seguros, un commit a la vez.**
-
-<br/>
-
+  <a href="https://www.sanchezdev.com/documents/CV-Espanol.html">
+    <img src="https://img.shields.io/badge/📄_Descargar_CV-Ver_Currículum-A855F7?style=for-the-badge"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.sanchezdev.com/es/agenda">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6FDA44&height=50&section=header&text=📅%20Agenda%20una%20Llamada&fontSize=18&fontColor=FFFFFF" width="280"/>
+  </a>
+  <br/>
+  <sub>¿Tienes una idea de proyecto? Conversemos cómo puedo ayudarte.</sub>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <strong>Construyendo sistemas seguros, un commit a la vez.</strong>
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
