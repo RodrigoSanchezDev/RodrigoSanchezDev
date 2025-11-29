@@ -30,7 +30,6 @@
 
 ```javascript
 const rodrigo = {
-    pronouns: "he" | "him",
     location: "Utah, United States",
     
     currentRole: "Fullstack Developer",
