@@ -1,5 +1,8 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sánchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
+</picture>
 
 <div align="center">
 
@@ -23,7 +26,7 @@
 <br/>
 
 <!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```javascript
 const rodrigo = {
@@ -53,7 +56,7 @@ const rodrigo = {
 <br/>
 
 <!-- Tech Stack Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -77,37 +80,44 @@ const rodrigo = {
 <br/>
 
 <!-- Featured Projects Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=Bank-Microservices-Cloud&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=vet-clinic-android&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=eventos-react-vite-rest-graphql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=hospital-patient-react-router-mock-rest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-</a>
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [**🏦 Bank Microservices**](https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud) | Enterprise banking with 11 Docker containers | `Spring Cloud` `Kafka` `Docker` |
+| [**🐾 Vet Clinic Android**](https://github.com/RodrigoSanchezDev/vet-clinic-android) | Native app with 19 screens & MVVM | `Kotlin` `Jetpack Compose` |
+| [**🎫 EventHub**](https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql) | Event platform with dual APIs | `React 19` `GraphQL` `Vite` |
+| [**🏥 Hospital Patient**](https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest) | Patient management system | `React` `MSW` `Tailwind` |
+| [**⚡ Batch Demo**](https://github.com/RodrigoSanchezDev/batch-demo) | BFF + hybrid batch processing | `Spring Batch` `JWT` |
+| [**🔐 JWT Auth API**](https://github.com/RodrigoSanchezDev/jwt-springboot-api) | Secure REST API template | `Spring Security` `JWT` |
 
 </div>
 
 <br/>
 
 <!-- GitHub Stats Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RodrigoSanchezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoSanchezDev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoSanchezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoSanchezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RodrigoSanchezDev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=RodrigoSanchezDev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSanchezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoSanchezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoSanchezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8"/>
+  </picture>
 </div>
 
 <br/>
@@ -120,23 +130,22 @@ const rodrigo = {
 <br/>
 
 <!-- Connect Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
-### Open to remote opportunities in Backend/Fullstack Development
+### 💼 Open to remote opportunities in Backend/Fullstack Development
 
 <br/>
 
-<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/Check_My_Portfolio-sanchezdev.com-A855F7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-sanchezdev.com-A855F7?style=for-the-badge"/></a>
 
 <br/><br/>
 
 **Building the future, one commit at a time.**
 
-</div>
-
 <br/>
 
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
