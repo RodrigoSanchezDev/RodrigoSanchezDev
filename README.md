@@ -1,118 +1,142 @@
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sánchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Java%20Spring%20Boot%20%26%20React%20Specialist&descAlignY=52&descSize=18"/>
+
 <div align="center">
 
-# Hey there! I'm Rodrigo Sánchez 👋
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+enterprise+microservices+architectures;Crafting+modern+React+%26+Android+applications;Passionate+about+clean+code+%26+best+practices" alt="Typing SVG" /></a>
 
-### Fullstack Developer | Java Spring Boot & React Specialist
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanchezdev.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanchezdev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sanchez-dev/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo@sanchezdev.com)
+<!-- Social Badges -->
+<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/Portfolio-sanchezdev.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rodrigo-sanchez-dev/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rodrigo@sanchezdev.com"><img src="https://img.shields.io/badge/Email-rodrigo@sanchezdev.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%8F%97%EF%B8%8F;Crafting+modern+React+applications+%E2%9A%9B%EF%B8%8F;Passionate+about+clean+code+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+<br/><br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=RodrigoSanchezDev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- About Me Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-```typescript
+```javascript
 const rodrigo = {
-  location: "Utah, United States 🇺🇸",
-  currentFocus: "Enterprise Microservices & Cloud Architecture",
-  languages: ["Java", "Kotlin", "TypeScript", "JavaScript"],
-  architecture: ["Microservices", "Event-Driven", "Clean Architecture", "MVVM"],
-  currentlyLearning: ["Kubernetes", "AWS", "Azure"],
-  funFact: "I debug with coffee ☕"
+    pronouns: "he" | "him",
+    location: "Utah, United States",
+    currentRole: "Fullstack Developer",
+    workingOn: "Enterprise Microservices & Cloud Architecture",
+    
+    code: {
+        backend: ["Java 21", "Kotlin", "Spring Boot 3.5", "Spring Cloud"],
+        frontend: ["React 19", "TypeScript", "Vite", "Tailwind CSS"],
+        mobile: ["Android", "Jetpack Compose", "Kotlin"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        devOps: ["Docker", "Apache Kafka", "CI/CD"]
+    },
+    
+    architecture: ["Microservices", "Event-Driven", "Clean Architecture", "MVVM", "BFF"],
+    
+    currentlyLearning: ["Kubernetes", "AWS", "Azure Cloud"],
+    
+    askMeAbout: ["Spring Boot", "React", "System Design", "Microservices"],
+    
+    funFact: "I transform coffee into production-ready code ☕ → 💻"
 };
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- Tech Stack Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
 
 <div align="center">
 
-### Backend
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2024-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### Backend Development
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,gradle,maven&theme=dark" />
 
-### Frontend
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Development  
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind,html,css&theme=dark" />
 
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma&theme=dark" />
+
+### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" />
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## 🏆 Featured Projects
+<!-- Featured Projects Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏦 [**Bank Microservices Cloud**](https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud) | Enterprise banking platform with 11 Docker containers | `Spring Cloud` `Kafka` `Resilience4j` |
-| 🐾 [**Vet Clinic Android**](https://github.com/RodrigoSanchezDev/vet-clinic-android) | Native Android app with 19 screens | `Kotlin` `Jetpack Compose` `MVVM` |
-| 🎫 [**EventHub**](https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql) | Event platform with dual APIs | `React 19` `GraphQL` `Vite` |
-| 🏥 [**Hospital Patient**](https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest) | Patient management system | `React` `MSW` `Tailwind` |
-| ⚡ [**Batch Demo**](https://github.com/RodrigoSanchezDev/batch-demo) | BFF architecture + hybrid batch processing | `Spring Batch` `JWT` `SSL` |
+<a href="https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=Bank-Microservices-Cloud&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=vet-clinic-android&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=eventos-react-vite-rest-graphql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSanchezDev&repo=hospital-patient-react-router-mock-rest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSanchezDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSanchezDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RodrigoSanchezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoSanchezDev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoSanchezDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSanchezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect
-
+<!-- Activity Graph -->
 <div align="center">
-
-💼 Open to **remote opportunities** in Backend/Fullstack Development
-
-📫 Reach me at **rodrigo@sanchezdev.com**
-
-🌐 Check out my portfolio at **[sanchezdev.com](https://sanchezdev.com)**
-
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoSanchezDev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
----
+<br/>
+
+<!-- Connect Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RodrigoSanchezDev&color=6366f1&style=for-the-badge&label=Profile+Views)
+### Open to remote opportunities in Backend/Fullstack Development
 
-**Thanks for visiting! ⭐**
+<br/>
+
+<a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/Check_My_Portfolio-sanchezdev.com-A855F7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+
+<br/><br/>
+
+**Building the future, one commit at a time.**
 
 </div>
 
+<br/>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
