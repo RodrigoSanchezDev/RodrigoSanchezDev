@@ -219,67 +219,70 @@ const rodrigo = {
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoSanchezDev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoSanchezDev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
 <br/>
+
 <!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing!;Open+for+Freelance+Projects;Available+for+Remote+Work" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
-### 💼 Open to remote opportunities in Backend/Fullstack Development & Cloud Security
-
-<br/>
-
-<!-- Bento Grid for Contact -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio"/>
-<br/><br/>
+<!-- Main CTA Cards -->
 <a href="https://sanchezdev.com">
-<img src="https://img.shields.io/badge/sanchezdev.com-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_sanchezdev.com-A855F7?style=for-the-badge&labelColor=0D1117" height="35"/>
 </a>
-<br/>
-<sub>Explore my work and projects</sub>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-<br/><br/>
+&nbsp;&nbsp;
 <a href="mailto:Rodrigo@sanchezdev.com">
-<img src="https://img.shields.io/badge/Rodrigo@sanchezdev.com-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_EMAIL-Rodrigo@sanchezdev.com-EA4335?style=for-the-badge&labelColor=0D1117" height="35"/>
 </a>
-<br/>
-<sub>Let's talk about your project</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=A855F7" alt="Resume"/>
 <br/><br/>
+
 <a href="https://www.sanchezdev.com/documents/CV-English.html">
-<img src="https://img.shields.io/badge/View_My_Resume-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📄_RESUME-Download_CV-A855F7?style=for-the-badge&labelColor=0D1117" height="35"/>
 </a>
-<br/>
-<sub>Download my professional resume</sub>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanchezdev">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&labelColor=0D1117" height="35"/>
+</a>
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/Freelance-0D1117?style=for-the-badge&logo=upwork&logoColor=6FDA44" alt="Freelance"/>
 <br/><br/>
-<a href="https://www.sanchezdev.com/agenda">
-<img src="https://img.shields.io/badge/Schedule_a_Call-A855F7?style=for-the-badge"/>
-</a>
-<br/>
-<sub>Have a project idea? Let's discuss!</sub>
 
-</td>
-</tr>
-</table>
+<!-- Freelance CTA -->
+<a href="https://www.sanchezdev.com/agenda">
+  <img src="https://img.shields.io/badge/🚀_GOT_A_PROJECT_IDEA%3F-Schedule_a_Free_Call-6FDA44?style=for-the-badge&labelColor=0D1117" height="40"/>
+</a>
+
+<br/><br/>
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   💡 Looking for a developer who builds secure, scalable apps?   ║
+║                                                                  ║
+║   ✅ Backend: Java, Spring Boot, Microservices, Kafka            ║
+║   ✅ Frontend: React, TypeScript, Tailwind CSS                   ║
+║   ✅ Mobile: Android, Kotlin, Jetpack Compose                    ║
+║   ✅ Cloud: AWS, Azure, Docker, Kubernetes                       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -287,6 +290,6 @@ const rodrigo = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
