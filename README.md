@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 <a href="https://sanchezdev.com"><img src="https://img.shields.io/badge/Portfolio-sanchezdev.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rodrigo-sanchez-dev/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanchezdev"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rodrigo@sanchezdev.com"><img src="https://img.shields.io/badge/Email-rodrigo@sanchezdev.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
