@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Desarrollador+Fullstack+(Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Kotlin);Seguridad+Cloud+%26+JWT+(AWS+%26+Azure);Estudiante+de+Ing.+en+Ciberseguridad+%40+UNAB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Desarrollador+Fullstack+(Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Kotlin);Seguridad+Cloud+%26+JWT+(AWS+%26+Azure);Estudiante+de+Ing.+en+Ciberseguridad+%40+UNAB" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -254,7 +254,7 @@ const rodrigo = {
 
 <div align="center">
   <a href="https://www.sanchezdev.com/es/agenda">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6FDA44&height=50&section=header&text=📅%20Agenda%20una%20Llamada&fontSize=18&fontColor=FFFFFF" width="280"/>
+    <img src="https://img.shields.io/badge/Agenda_una_Llamada-A855F7?style=for-the-badge&logo=googlecalendar&logoColor=white" height="45"/>
   </a>
   <br/>
   <sub>¿Tienes una idea de proyecto? Conversemos cómo puedo ayudarte.</sub>

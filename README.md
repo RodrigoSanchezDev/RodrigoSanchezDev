@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Fullstack+Developer+(Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Kotlin);Cloud+%26+JWT+Security+(AWS+%26+Azure);Cybersecurity+Engineering+Student+%40+UNAB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Fullstack+Developer+(Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Kotlin);Cloud+%26+JWT+Security+(AWS+%26+Azure);Cybersecurity+Engineering+Student+%40+UNAB" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -255,7 +255,7 @@ const rodrigo = {
 
 <div align="center">
   <a href="https://www.sanchezdev.com/agenda">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=6FDA44&height=50&section=header&text=📅%20Schedule%20a%20Free%20Call&fontSize=18&fontColor=FFFFFF" width="280"/>
+    <img src="https://img.shields.io/badge/Schedule_a_Call-A855F7?style=for-the-badge&logo=googlecalendar&logoColor=white" height="45"/>
   </a>
   <br/>
   <sub>Have a project idea? Let's discuss how I can help.</sub>
