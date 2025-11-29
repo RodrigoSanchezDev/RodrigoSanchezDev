@@ -96,14 +96,93 @@ const rodrigo = {
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías |
-|:--------:|:-----------:|:-----------:|
-| [**🏦 Bank Microservices**](https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud) | Sistema bancario empresarial con 11 contenedores Docker | `Spring Cloud` `Kafka` `Docker` |
-| [**🐾 Vet Clinic Android**](https://github.com/RodrigoSanchezDev/vet-clinic-android) | App nativa con 19 pantallas y patrón MVVM | `Kotlin` `Jetpack Compose` |
-| [**🎫 EventHub**](https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql) | Plataforma de eventos con APIs duales | `React 19` `GraphQL` `Vite` |
-| [**🏥 Hospital Patient**](https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest) | Sistema de gestión de pacientes | `React` `MSW` `Tailwind` |
-| [**⚡ Batch Demo**](https://github.com/RodrigoSanchezDev/batch-demo) | BFF + procesamiento batch híbrido | `Spring Batch` `JWT` |
-| [**🔐 JWT Auth API**](https://github.com/RodrigoSanchezDev/jwt-springboot-api) | Template de API REST segura | `Spring Security` `JWT` |
+<!-- Bento Grid Layout -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏦 Bank Microservices</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud" target="_blank"><img src="https://img.shields.io/badge/Sistema_Bancario-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Bank Microservices"/></a>
+<br/><br/>
+<p><strong>11 contenedores Docker</strong> • Arquitectura distribuida</p>
+<img src="https://skillicons.dev/icons?i=spring,docker,kafka&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/Bank-Microservices-Cloud"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🐾 Vet Clinic Android</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android" target="_blank"><img src="https://img.shields.io/badge/App_Móvil_Nativa-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Vet Clinic"/></a>
+<br/><br/>
+<p><strong>19 pantallas</strong> • Arquitectura MVVM</p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎫 EventHub</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql" target="_blank"><img src="https://img.shields.io/badge/Plataforma_Eventos-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="EventHub"/></a>
+<br/><br/>
+<p><strong>REST + GraphQL</strong> • APIs Duales</p>
+<img src="https://skillicons.dev/icons?i=react,graphql,vite&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/eventos-react-vite-rest-graphql"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 Hospital Patient</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest" target="_blank"><img src="https://img.shields.io/badge/Gestión_Pacientes-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Hospital Patient"/></a>
+<br/><br/>
+<p><strong>Mock Service Worker</strong> • UI/UX Moderno</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,typescript&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/hospital-patient-react-router-mock-rest"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Batch Demo</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/batch-demo" target="_blank"><img src="https://img.shields.io/badge/Procesamiento_Batch-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Batch Demo"/></a>
+<br/><br/>
+<p><strong>Patrón BFF</strong> • Procesamiento Híbrido</p>
+<img src="https://skillicons.dev/icons?i=spring,java,postgres&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/batch-demo"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 JWT Auth API</h3>
+<div align="center">
+<a href="https://github.com/RodrigoSanchezDev/jwt-springboot-api" target="_blank"><img src="https://img.shields.io/badge/API_REST_Segura-0D1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="JWT Auth"/></a>
+<br/><br/>
+<p><strong>Spring Security</strong> • Template Producción</p>
+<img src="https://skillicons.dev/icons?i=spring,java,postgres&theme=dark" height="35"/>
+<br/><br/>
+<a href="https://github.com/RodrigoSanchezDev/jwt-springboot-api"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
