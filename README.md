@@ -1,3 +1,11 @@
+<!-- Language Selector -->
+<div align="right">
+
+[![en](https://img.shields.io/badge/🇺🇸_English-A855F7?style=for-the-badge)](./README.md)
+[![es](https://img.shields.io/badge/🇪🇸_Español-0D1117?style=for-the-badge)](./README.es.md)
+
+</div>
+
 <!-- Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Sanchez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20|%20Cloud%20%26%20Cybersecurity&descAlignY=52&descSize=18"/>
