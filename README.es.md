@@ -116,12 +116,12 @@ const rodrigo = {
 
 <h3 align="center">🐾 Vet Clinic Android</h3>
 <div align="center">
-<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android" target="_blank"><img src="https://img.shields.io/badge/App_Móvil_Nativa-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Vet Clinic"/></a>
+<a href="https://github.com/RodrigoSanchezDev/vetcare-android-kotlin-compose-mvvm" target="_blank"><img src="https://img.shields.io/badge/App_Móvil_Nativa-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Vet Clinic"/></a>
 <br/><br/>
 <p><strong>19 pantallas</strong> • Arquitectura MVVM</p>
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma&theme=dark" height="35"/>
 <br/><br/>
-<a href="https://github.com/RodrigoSanchezDev/vet-clinic-android"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RodrigoSanchezDev/vetcare-android-kotlin-compose-mvvm"><img src="https://img.shields.io/badge/Ver_Código-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 </td>
